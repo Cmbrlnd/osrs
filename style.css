@@ -13,3 +13,9 @@ html {
 	display: flex;
 	align-items: right
 }
+
+ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
