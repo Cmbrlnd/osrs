@@ -1,0 +1,15 @@
+body,
+html {
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #CAB179
+}
+
+.push {
+	display: flex;
+	align-items: right
+}
