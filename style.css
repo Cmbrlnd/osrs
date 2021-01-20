@@ -21,5 +21,12 @@ ul {
 }
 
 .card {
-	background-color: #CAB179
+	width: 100%
+	background-color: #CAB179;
+	border: none;
 }
+
+.card-body{
+	background-color: #CAB179;
+}
+	
