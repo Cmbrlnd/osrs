@@ -23,3 +23,7 @@ ul {
 img {
 	object-fit: cover;
 }
+
+.card {
+	background-color: #CAB179
+}
