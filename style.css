@@ -24,9 +24,18 @@ ul {
 	width: 100%
 	background-color: #CAB179;
 	border: none;
+	margin: 0 auto;
+	width: 100%
 }
 
 .card-body{
 	background-color: #CAB179;
+	width: 100%
+	padding: none;
 }
-	
+
+.card-text {
+	padding: none;
+	margin: none;
+	width: 100%;
+}
