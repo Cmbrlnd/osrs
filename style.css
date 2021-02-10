@@ -39,3 +39,7 @@ ul {
 	margin: none;
 	width: 100%;
 }
+
+.navbar-brand {
+	margin-left: 1em;
+}
